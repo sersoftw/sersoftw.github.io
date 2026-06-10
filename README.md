@@ -1,6 +1,6 @@
-# Portfolio DAM - GitHub Pages
+# Portfolio Sergio BG - GitHub Pages
 
-Portfolio profesional para un perfil junior de Desarrollo de Aplicaciones Multiplataforma.
+Portfolio profesional  junior de Desarrollo de Aplicaciones Multiplataforma.
 
 ## Estructura del proyecto
 
