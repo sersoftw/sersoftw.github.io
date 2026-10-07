@@ -1,73 +1,34 @@
-# Portfolio Sergio BG - GitHub Pages
+# Sergio Bernal Gálvez — Portfolio
 
-Portfolio profesional  junior de Desarrollo de Aplicaciones Multiplataforma.
+Portfolio personal como desarrollador junior, titulado en Desarrollo
+de Aplicaciones Multiplataforma y en búsqueda de mi primera
+oportunidad profesional.
 
-## Estructura del proyecto
+Web: https://sersoftw.github.io/
 
-```text
-portfolio-dam-github-pages/
-├── index.html
-├── README.md
-├── assets/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── main.js
-│   └── img/
-│       └── favicon.svg
-```
+## Contenido
 
-## Cómo personalizarlo
+Presentación, conocimientos técnicos, proyectos académicos y personales,
+formación y enlaces de contacto.
 
-Antes de publicarlo, edita estos datos:
+Cada proyecto incluye una descripción y, cuando está disponible,
+un enlace a su repositorio o aplicación.
 
-1. En `index.html`, cambia:
-   - `Tu Nombre`
-   - `TuNombre.dev`
-   - `tuemail@ejemplo.com`
-   - `tuusuario` en GitHub y LinkedIn
-   - `[Nombre del centro]`
-   - `[Año de inicio] - [Año de finalización]`
+## Tecnologías
 
-2. En la sección `Proyectos destacados`, cambia los enlaces `href="#"` por enlaces reales a tus repositorios.
+HTML, CSS y JavaScript, sin herramientas de compilación.
 
-3. Puedes borrar proyectos que todavía no quieras mostrar o dejar solo los 2-3 más fuertes.
+## Estructura
 
-## Cómo publicarlo en GitHub Pages
+- index.html: contenido y secciones.
+- assets/css/styles.css: estilos.
+- assets/js/main.js: comportamiento de la interfaz.
+- assets/img/: recursos gráficos.
 
-Opción recomendada para portfolio personal:
+## Ejecución local
 
-1. Crea un repositorio en GitHub llamado:
+Clona el repositorio:
 
-```text
-tuusuario.github.io
-```
+git clone https://github.com/sersoftw/sersoftw.github.io.git
 
-2. Sube estos archivos al repositorio.
-
-3. En GitHub entra en:
-
-```text
-Settings > Pages
-```
-
-4. En `Build and deployment`, selecciona:
-   - Source: `Deploy from a branch`
-   - Branch: `main`
-   - Folder: `/root`
-
-5. Guarda los cambios.
-
-Tu portfolio debería quedar publicado en:
-
-```text
-https://tuusuario.github.io
-```
-
-## Consejos para usarlo en el CV
-
-Añade el enlace en la parte superior del CV junto a GitHub y LinkedIn:
-
-```text
-Portfolio: https://tuusuario.github.io
-```
+Abre index.html en un navegador.
